@@ -22,7 +22,7 @@ body {
     top: -30;
     left: -30;
     width: calc(80vw + 60px);
-    height: calc(80vh + 60px);
+    height: calc(60vh + 60px);
     z-index: -1;
     filter: blur(0px); 
 
@@ -32,5 +32,5 @@ body {
 
 .loading-text {
     font-size: 50px;
-    color:black;
+    color: white;
 }
