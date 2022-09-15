@@ -16,5 +16,13 @@ body {
 }
 
 .bg {
-    background: url('');
+    background: url('/img/startup-g7268c264e_1280.jpg') no-repeat center cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(0px);
+    
 }
